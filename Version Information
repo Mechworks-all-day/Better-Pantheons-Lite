@@ -1,2 +1,18 @@
-14-10-2022 (Initial Prototype)
-This file is blank, because I'm still doing setup.
+14-10-2022 (Initial Prototype) (half past noon)
+Added +1 Faith per 5 population for Ancestor Worship,
+Restricted Desert Folklore and Dance of the Aurora to only 2 tiles of range from cities,
+Faith Healers and Fertility Rites are now Follower Beliefs,
+God of Craftsman gains +1 Faith from each production building,
+God of the Open Sky also generates +1 Faith from Pastures,
+God of the Sea also generates +1 Faith from Fishing Boats,
+Goddess of Love gives every Shrine +1 Faith if the city has more than 6 population,
+Goddess of Protection adds Faith generation to the Walls/Castle/Arsenal/Military Base line,
+Goddess of the Hunt gets +1 Faith from Camps,
+Messenger of the Gods also generates 2 Faith per trade routes,
+Monument to the Gods adds +3 Faith for Wonders,
+Oral Tradition now gains +1 Faith at each Plantation,
+Religious Settlements is now a Follower Belief,
+Sacred Path gives +1 Faith from Jungle tiles,
+Sacred Waters gives +1 Faith from Fresh Water tiles (this is experimental and may not work),
+
+No other changes at this time.
