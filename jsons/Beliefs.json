@@ -40,7 +40,7 @@
         "name": "God of Craftsman",
         "type": "Pantheon",
         "uniques": [
-                   "[+1 Production] <in cities with at least [3] [Population]>",
+                   "[+1 Production] [in cities following this religion] <in cities with at least [3] [Population]>",
                    "[+1 Faith] from all [Production] buildings"
                    ]//Added faith generation to all production stuff 
     },
@@ -62,7 +62,7 @@
         "name": "Goddess of Love",
         "type": "Pantheon",
         "uniques": [
-                   "[+1 Happiness] <in cities with at least [6] [Population]>",
+                   "[+1 Happiness] [in cities following this religion] <in cities with at least [6] [Population]>",
                    "[+1 Faith] from every [Shrine] <in cities with at least [6] [Population]>"
                    ]//Added faith generation 
     },
